@@ -25,7 +25,7 @@ each frame using simple co-ordinate systems. Enjoy!
 <img src="https://learningworksforkids.com/wp-content/uploads/IMG_6220-325x578.jpg" alt="alt text" width=300 height=500>       <img src="https://github.com/rishi-99/SlideSnake/blob/master/Screenshot%202020-08-05%20at%201.07.30%20PM.png" alt="alt text" width=300 height=500>
 
 # Requirements 
-All below modules in python 3.6 and above
+python 3.6 and above
 
 - Python3.x
 
