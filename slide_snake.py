@@ -34,8 +34,8 @@ class SlideSnake:
         self.max_score = 0
         self.frameRate = 15
         self.collision = []
-        self.text = 'white'
-        self.bg = 'black'
+        self.text = 'black'
+        self.bg = 'white'
         self.brickcolor = {
             1: 'purple1',
             2: 'purple2',
@@ -117,7 +117,7 @@ class SlideSnake:
 
 
     def Button_(self, root, text, command, h, w, x, y):
-        button = Button(master=root, text=text, command=command, fg='grey91')
+        button = Button(master=root, text=text, command=command, fg='black')
         button.place(bordermode=OUTSIDE, height=h, width=w, y=y, x=x)
         return button
 
