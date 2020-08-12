@@ -10,7 +10,7 @@ Object collision is calculated for each frame using simple co-ordinate systems.
 Enjoy!
 
 
-#Description
+# Description
 
 1) Simple Snake game written in python.
 
