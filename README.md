@@ -1,11 +1,13 @@
 # SlideSnake
 Snake game based on python/Tkinter.
 
-This is an attempt to recreate the simple version of Snake Vs Block. 
-Motive of this project was to demontsrate the OOP capabilities where
-this script strictly uses Tkinter and Canvas (not PyGame) where each frame is 
-built using canvas and its basic elements. Object collision is calculated for
-each frame using simple co-ordinate systems. Enjoy!
+This is an attempt to recreate the simple version of "Snake Vs Block" an android game in python.
+
+Motive of this project was to demonstrate the OOP capabilities where this script strictly uses Tkinter and Canvas (not PyGame) where each frame is built using canvas and its basic elements (frame rate is 28 fps).
+
+Object collision is calculated for each frame using simple co-ordinate systems.
+
+Enjoy!
 
 
 #Description
